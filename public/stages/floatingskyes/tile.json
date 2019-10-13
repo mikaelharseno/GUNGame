@@ -1,0 +1,20 @@
+{"frames": {
+
+"tileset.png":
+{
+	"frame": {"x":1,"y":1,"w":893,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":893,"h":320},
+	"sourceSize": {"w":928,"h":320}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tile.png",
+	"format": "RGBA8888",
+	"size": {"w":895,"h":322},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c3f7ecda70c754bd4f8d30932ea0e636:cd2931e2ffc90e7ee06783b8fd8ebbaf:3fc5630543b79be9d9cd5b563671216c$"
+}
+}
